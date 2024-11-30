@@ -9,7 +9,7 @@ const Hero = () => {
             className='w-28 object-contain'/>
 
             <button type='button'
-            onClick={()=> window.open('https://github.com/akmweb')}
+            onClick={()=> window.open('https://github.com/q1akm/OPENAI---ARTIC')}
             className='black_btn'>
               Github
             </button>
